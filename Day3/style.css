@@ -1,0 +1,25 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Gothic&display=swap');
+
+table, th, td {
+    border: 1px solid black;
+    <colgroup>
+        <col>
+        <colspan = "2" style = "background-color: sandybrown">
+    </colgroup>
+}
+
+text {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+h1 {
+    font-family: "Jua", sans-serif;
+    font-weight: 700;
+}
+h2 {
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    color: saddlebrown
+}
+blue{
+    color: blue;
+}
